@@ -1,0 +1,9 @@
+#+title:Emacs mode for AQL specifications
+
+AQL is an Algebraic Query Language for data integration and migration. See
+[[http://catinf.com][Categorical Informatics website]] for more information, and [[http://catinf.com/examples.php][AQL examples]] for some
+example specifications.
+
+* Features
+
+- syntax highlighting
